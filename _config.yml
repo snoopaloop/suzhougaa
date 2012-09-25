@@ -1,2 +1,5 @@
 markdown: maruku
 permalink: pretty
+
+permalink: /:year/:month/:day/:title/
+paginate: 5
