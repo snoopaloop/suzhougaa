@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-02-24 10:45:00
-layout: default
+layout: main
 slug: awards
 title: Awards
 wordpress_id: 31

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-07-17 20:12:40
-layout: default
+layout: main
 slug: about
 title: About
 wordpress_id: 6

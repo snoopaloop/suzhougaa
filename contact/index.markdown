@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2010-07-17 20:13:47
-layout: default
+layout: main
 slug: contact
 title: Contact
 wordpress_id: 7

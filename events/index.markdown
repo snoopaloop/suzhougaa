@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2010-07-21 22:36:49
-layout: default
+layout: main
 slug: events
 title: Events
 wordpress_id: 15
